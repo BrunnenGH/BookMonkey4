@@ -1,0 +1,45 @@
+{
+  "name": "bookmonkey4",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build --dev",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "~13.1.0",
+    "@angular/common": "~13.1.0",
+    "@angular/compiler": "~13.1.0",
+    "@angular/core": "~13.1.0",
+    "@angular/forms": "~13.1.0",
+    "@angular/platform-browser": "~13.1.0",
+    "@angular/platform-browser-dynamic": "~13.1.0",
+    "@angular/router": "~13.1.0",
+    "core-js": "3.8.3",
+    "rxjs": "~7.4.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.11.4"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "~13.1.2",
+    "@angular/cli": "~13.1.2",
+    "@angular/compiler-cli": "~13.1.0",
+    "@angular/language-service": "^13.1.0",
+
+    "@types/node": "14.14.28",
+    "codelyzer": "6.0.1",
+
+
+    "@types/node": "^12.11.1",
+    "typescript": "~4.5.2"
+
+
+  },
+  "keywords": ["angular", "BookMonkey4"],
+  "description": "Ke knize Angular, 4. Ausgabe"
+}
